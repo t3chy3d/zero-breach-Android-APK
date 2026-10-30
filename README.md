@@ -1,5 +1,7 @@
 # Zero Breach
 
+LOOK FOR THE ANDROID APK IN THE FILES. Zero Breach 1.0.0 APK.apk
+
 > Release v0.1.8 corrects the version the download reports (v0.1.7 shipped
 > reporting itself as 0.1.6) and refuses network paths given to `--iocs`/`--json`
 > in the single-file build. Optional Candiru patterns still need the pinned YARA-X engine;
